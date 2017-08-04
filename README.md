@@ -4,7 +4,7 @@
 Joe always drops his phone, he wants to track the location and time he drops it.
 
 ## Goal
-A Map loads in a browser and the map shows a marker everytime hits his phone in his hand.
+A Map loads in a browser and the map shows a marker everytime a person hits the phone (simluating a dropped phone).
 
 ## Requirements
 * He wants the map to load in a browser
